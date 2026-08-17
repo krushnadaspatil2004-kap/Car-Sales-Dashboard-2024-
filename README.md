@@ -1,11 +1,13 @@
 # Car-Sales-Dashboard-2024-
+
 Recommended structure and order
 1. Project Title / Headline
 
 🚗 Car Sales Analysis Dashboard | Power BI
 
- 2. Short Description / Purpose
-This project analyzes car sales data to identify sales trends, revenue performance, profit generation, customer behavior, and vehicle preferences. The dashboard provides interactive insights to help businesses make data-driven decisions and improve sales performance.
+2. Short Description / Purpose
+ 
+This project analyzes car sales data to identify sales trends, revenue performance, profit generation, customer behavior,    and vehicle preferences. The dashboard provides interactive insights to help businesses make data-driven decisions and       improve sales performance.
 
 3. Tech Stack
 
@@ -39,7 +41,7 @@ The business needs to identify sales trends, top-performing brands and car model
 * 📅 Time-based Sales Analysis
 
 
-7) Screenshots / Demos
+7. Screenshots / Demos
 Show What the dashboard looks like.
 Example: [![Car Sales Dashboard](./Snapshort%20of%20Car%20sales%20Dashboard.png)](./Snapshort%20of%20Car%20sales%20Dashboard.png)
 
