@@ -41,6 +41,6 @@ The business needs to identify sales trends, top-performing brands and car model
 
 7) Screenshots / Demos
 Show What the dashboard looks like.
-Example:
+Example: [![Car Sales Dashboard](./Snapshort%20of%20Car%20sales%20Dashboard.png)](./Snapshort%20of%20Car%20sales%20Dashboard.png)
 
   
